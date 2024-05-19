@@ -6,7 +6,7 @@
 
 <p>&#128187; Currently working as web-designer at <a href="https://prisma.riprisma.com/" target="_blank">Prisma</a></p>
 <p>&#127891; Graduated in Information Technology Management</p>
-<p>&#127796; I like adventure games and horror/suspense books</p>
+<p>&#128525; I like adventure/simulation games and horror/suspense books</p>
 
 <h2>Softwares and Technologies</h2>
 <p><img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF.svg?style=for-the-badge&logo=Adobe-Photoshop&logoColor=white"> <img src="https://img.shields.io/badge/Figma-F24E1E.svg?style=for-the-badge&logo=Figma&logoColor=white"></p>
